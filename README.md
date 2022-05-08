@@ -8,7 +8,7 @@
 
 - Given the importance of this type of data, we must have methods to understand and reason about natural language, just like we do for other types of data.
 
-<img src="/assets/google-smith.jpeg" width="300" align="center"/>
+<img src="/assets/google-smith.jpeg" width="500" align="center"/>
 
 
 ### How Does Natural Language Processing Work?
@@ -36,7 +36,7 @@ Only then can NLP tools transform text into something a machine can understand.
 - The biggest advantage of machine learning algorithms is their ability to learn on their own. You don’t need to define manual rules – instead machines learn from previous data to make predictions on their own, allowing for more flexibility.
 
 - Machine learning algorithms are fed training data and expected outputs (tags) to train machines to make associations between a particular input and its corresponding output. Machines then use statistical analysis methods to build their own “knowledge bank” and discern which features best represent the texts, before making predictions for unseen data (new texts):
-<img src="/assets/Capture.PNG" width="800" height="800" align="center"/>
+<img src="/assets/Capture.PNG" width="700" height="700" align="center"/>
 
 
 
