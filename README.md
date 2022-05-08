@@ -74,6 +74,9 @@ Only then can NLP tools transform text into something a machine can understand.
 
 - Natural language generation, NLG for short, is a natural language processing task that consists of analyzing unstructured data and using it as an input to automatically create content. 
 
+<img src="/assets/C13783_01_04.jpg" width="500" height="500" align="center"/>
+
+
 ### Top NLP Tools to Help You Get Started :
     
 * MonkeyLearn
