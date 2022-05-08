@@ -22,6 +22,7 @@
     * Stop word removal: filtering out common words that add little or no unique information, for example, prepositions and articles (at, to, a, the).
 
 Only then can NLP tools transform text into something a machine can understand. 
+<img src="/assets/Natural-Language-Processing-steps.png" width="500" height="500" align="center"/>
 
 ### Natural Language Processing Algorithms :
 
