@@ -8,11 +8,7 @@
 
 - Given the importance of this type of data, we must have methods to understand and reason about natural language, just like we do for other types of data.
 
-![alt text](https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg?raw=true) 
-![Screenshot](google-smith.jpeg)
-<p align="center">
-  <img src="https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg" width="350" title="hover text">
-  <img src="https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg" width="350" alt="accessibility text">
-</p>
-<img src="/assets/google-smith.jpeg" width="128"/>
+<img src="/assets/google-smith.jpeg" width="300"/>
+
+
 ### How Does Natural Language Processing Work?
