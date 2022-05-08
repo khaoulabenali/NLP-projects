@@ -11,6 +11,6 @@
 ### About the project :
 
 - This project is  direct application of detecting programming languages using spacy.It is for learning goals and does not aim to obtain the best results.
-- This projects highlights the importance of using spacy to detect Programming Languages and shoes the difference between classical text processing and Natural Language processing.
+- This project highlights the importance of using spacy to detect Programming Languages and shows the difference between classical text processing and Natural Language processing.
 
 
