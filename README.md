@@ -10,6 +10,9 @@
 
 ![alt text](https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg?raw=true) 
 ![Screenshot](google-smith.jpeg)
-
+<p align="center">
+  <img src="https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg" width="350" title="hover text">
+  <img src="https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg" width="350" alt="accessibility text">
+</p>
 
 ### How Does Natural Language Processing Work?
