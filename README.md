@@ -40,7 +40,7 @@ Only then can NLP tools transform text into something a machine can understand.
 
 ### Natural Language Processing Examples :
 
-####### Text Classification :
+###### Text Classification :
 
 - Text classification is one of the most basic NLP tasks and consists of assigning categories (tags) to a text, based on its content. Classification models can serve different purposes, for example:
 
@@ -52,24 +52,24 @@ Only then can NLP tools transform text into something a machine can understand.
 
 * Intent detection consists of identifying the purpose, goal, or intention behind a text. It’s an excellent way of sorting outbound sales email responses by Interested, Need Information, Unsubscribe, Bounce, etc. The tag Interested could help you spot a potential sale opportunity as soon as an email enters your inbox!
 
-####### Text Extraction :
+###### Text Extraction :
 
 - Another example of NLP is text extraction, which consists of pulling out specific pieces of data that are already present in a text. It’s a perfect way to automatically summarize text or find key information. The most common examples of extraction models are:
 
 
 * Keyword extraction automatically extracts the most important words and expressions within a text. This can provide you with a sort of preview of the content and its main topics, without needing to read each piece.
 
-####### Machine Translation :
+###### Machine Translation :
 
 - This was one of the first problems addressed by NLP researchers. Online translation tools (like Google Translate) use different natural language processing techniques to achieve human-levels of accuracy in translating speech and text to different languages. Custom translators models can be trained for a specific domain to maximize the accuracy of the results.
 
-####### Topic Modeling :
+###### Topic Modeling :
 
 - Topic modeling is similar to topic classification. This example of natural language processing finds relevant topics in a text by grouping texts with similar words and expressions.
 
 - Since you don’t need to create a list of predefined tags or tag any data, it’s a good option for exploratory analysis, when you are not yet familiar with your data.
 
-####### Natural Language Generation (NLG) :
+###### Natural Language Generation (NLG) :
 
 - Natural language generation, NLG for short, is a natural language processing task that consists of analyzing unstructured data and using it as an input to automatically create content. 
 
