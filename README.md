@@ -14,5 +14,5 @@
   <img src="https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg" width="350" title="hover text">
   <img src="https://github.com/khaoulabenali/NLP-projects/assets/google-smith.jpeg" width="350" alt="accessibility text">
 </p>
-
+<img src="/assets/google-smith.jpeg" width="128"/>
 ### How Does Natural Language Processing Work?
